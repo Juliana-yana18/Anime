@@ -1,0 +1,15 @@
+!DOCTYPE html>
+<head>
+	<title>ACTIVITY 1</title>
+</head>
+<body>
+
+<ol>
+	<li type="I">BSIT</li>
+	<li type="I">BSIS</li>
+	<li type="I">BIT</li>
+	<li type="I">HM</li>
+	<li type="I">EDUC</li>
+	
+</body>
+</html>

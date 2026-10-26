@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sample HTML 5 </title>
+</head>
+
+<a name = "top"</>
+
+<body>
+
+<h1> My Sample Page</h1>
+
+<a href = "#bottom">bottom</a>
+
+<h4>Text Formatting</h4>
+
+	<b>This is</b> <br/>
+	<i>This is Italic<i/>
+	<p>This is sample paragraph</p>
+	<small> Small Text</small><br/>
+	H<sub>2</sub>0 <br/>
+	X<sup>2</sub> <br/>
+	H &gt; Y<br>
+	&copy; Copyright 2026 <br>
+	Dog &nbsp; &nbsp; &nbsp; Cat
+
+<h6> Ordered List
+
